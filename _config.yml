@@ -1,0 +1,28 @@
+name: tylerstuff
+favicon: null
+layout_spectrum: 0.8231506925076246
+typography_spectrum: 0.689229367300868
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.42411442194133997
+  lightness: 0.8223347296006978
+  saturation: 0.4933026637881994
+  rhythmicContrast: 0.3256157317664474
+purpose: []
