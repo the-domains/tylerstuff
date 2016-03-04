@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[tylerstuff]]></title>
         <description><![CDATA[tylerstuff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tylerstuff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 01:01:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 01:03:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tylerstuff/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6060f6d-e8ba-47db-be8f-e5f679b8a882.jpg">]]></description>
+            <link>https://thegrid.ai/tylerstuff/de27ae17-6fd4-40ad-abc7-6587a2e46b37/index.html</link>
+            <guid isPermaLink="false">de27ae17-6fd4-40ad-abc7-6587a2e46b37</guid>
+            <pubDate>Fri, 04 Mar 2016 01:01:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>My first post on The Grid. Yay.</p>]]></description>
-            <link>undefinede34e79f0-8607-480d-ba0b-a3c86167dc3e/index.html</link>
+            <link>https://thegrid.ai/tylerstuff/e34e79f0-8607-480d-ba0b-a3c86167dc3e/index.html</link>
             <guid isPermaLink="false">e34e79f0-8607-480d-ba0b-a3c86167dc3e</guid>
             <pubDate>Fri, 04 Mar 2016 00:58:50 GMT</pubDate>
         </item>
