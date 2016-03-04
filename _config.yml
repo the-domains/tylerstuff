@@ -1,6 +1,6 @@
 name: tylerstuff
 favicon: null
-layout_spectrum: 0.8231506925076246
+layout_spectrum: 0.32051
 typography_spectrum: 0.689229367300868
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.42411442194133997
-  lightness: 0.8223347296006978
-  saturation: 0.4933026637881994
-  rhythmicContrast: 0.3256157317664474
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
